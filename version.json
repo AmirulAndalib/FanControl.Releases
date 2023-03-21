@@ -1,8 +1,8 @@
 {
-    "Number":  150,
-    "Message":  "- Fan identification step will now also rename the speed sensor\r\n- New offset custom sensor\r\n- Update LibreHardwareMonitorLib\r\n- New checksum validation in the update process\r\n- Fix tray icon bugs",
+    "Number":  151,
+    "Message":  "- test changelog",
     "Checksums":  {
-                      "FanControl":  "8479EBE31959E4474D7BA0F14C786C28",
-                      "Updater":  "77C9ADADEC08AC0616A9D8F10E9EC6C6"
+                      "FanControl":  "F1F3F15DCCCE275777615ABF32D76E37",
+                      "Updater":  "E6D41750E05042887BB033067FD44541"
                   }
 }
